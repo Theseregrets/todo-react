@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+header{
+  background: #323232;
+  color: #fff;
+  padding: 1rem;
+  font-size: 3rem;
+}
