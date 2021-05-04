@@ -6,5 +6,15 @@ header{
   color: #fff;
   padding: 1rem;
   font-size: 3rem;
+  text-align: center;
   
+}
+
+.crossed {
+  text-decoration: line-through;
+  color: red;
+}
+
+footer{
+  bottom: 0;
 }
